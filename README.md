@@ -1,2 +1,2 @@
-# Neanet
- Threat intelligence
+# Neanet :hocho:
+ Threat intelligence feed
