@@ -1,12 +1,13 @@
 # Neanet :hocho:
 #### Threat intelligence feed
-Threat intelligence feed with a judgment value of 99.8% objective and 0.2% subjective, for a 98.7% of effective. If your ip address are indexed in this list, you can to create a new issues and we are going to valorate about it or judge it again...
+Threat intelligence feed
 
 #### The stats:
 For the historical stats go to: [link](/stats.csv)
 | Last Update | Critical IP | Very High | High | Paranoia |
 | --- | --- | --- | --- | --- |
-| 2020-08-09 14:41:50.188338 | 9 | 700 | 46811 | 127.0.0.1*, but  you can use our list with all list (critical+Veryhighhigh)|
+| 2020-08-09 14:49:54.538483 | 9 | 699 | 46810 | 127.0.0.1, But you can also use our mixed [list](https://raw.githubusercontent.com/JavaGarcia/Neanet/master/blacklists/neanet_all.txt) (critical + Very high + high)]|
+
 
 
 
