@@ -6,5 +6,6 @@ Threat intelligence feed with a judgment value of 80% objective and 20% subjecti
 For the historical stats go to: 
 | Last Update | Critical IP | Very High | High | Paranoia |
 | --- | --- | --- | --- |
-| 2020-08-09 00:26:47.475685 | 10 | 806 | 47858 | 127.0.0.1* |
+| 2020-08-09 00:46:21.335669 | 9 | 805 | 47814 | 127.0.0.1*, i just joken, but  you can use all list|
+
 
