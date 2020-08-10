@@ -5,7 +5,7 @@
 
 | Last Update | Critical | Very High | High | Paranoia |
 | --- | --- | --- | --- | --- |
-| 2020-08-10 11:01:50 | 211 | 1778 | 68809 | 70798 mixed list (Critical + Very High + High)|
+| 2020-08-10 12:01:46 | 213 | 1772 | 68807 | 70792 mixed list (Critical + Very High + High)|
 
 For the historical stats go to: [link](/stats.csv)
 ## Raw
@@ -13,6 +13,7 @@ For the historical stats go to: [link](/stats.csv)
 - :fearful: [VeryHigh](https://raw.githubusercontent.com/JavaGarcia/Neanet/master/blacklists/neanet_veryHigh.txtt)
 - :frowning: [High](https://raw.githubusercontent.com/JavaGarcia/Neanet/master/blacklists/neanet_high.txt)
 - :dizzy_face: [Mixed-Paranoia](https://raw.githubusercontent.com/JavaGarcia/Neanet/master/blacklists/neanet_all.txt)
+
 
 
 
