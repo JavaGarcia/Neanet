@@ -5,7 +5,8 @@
 For the historical stats go to: [link](/stats.csv)
 | Last Update | Critical | Very High | High | Paranoia |
 | --- | --- | --- | --- | --- |
-| 2020-08-10 00:57:39 | 25 | 981 | 67257 | 127.0.0.1, But you can also use our mixed [list](https://raw.githubusercontent.com/JavaGarcia/Neanet/master/blacklists/neanet_all.txt) (Critical + Very high + High)|
+| 2020-08-10 00:58:37 | 25 | 981 | 67257 | 127.0.0.1, But you can also use our mixed [list](https://raw.githubusercontent.com/JavaGarcia/Neanet/master/blacklists/neanet_all.txt) (Critical + Very high + High)|
+
 
 
 
