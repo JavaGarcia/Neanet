@@ -11,7 +11,7 @@
 
 
 
-
+| 2020-08-10 23:05:01 | 264 | 2084 | 69105 | 71453 mixed list (Critical + Very High + High)|
 | 2020-08-10 22:52:40 | 230 | 1775 | 68676 | 70681 mixed list (Critical + Very High + High)|
 | 2020-08-10 23:01:46 | 264 | 2084 | 69105 | 71453 mixed list (Critical + Very High + High)|
 
@@ -31,6 +31,7 @@ For the historical stats go to: [link](/stats.csv)
 - :fearful: [VeryHigh](https://raw.githubusercontent.com/JavaGarcia/Neanet/master/blacklists/neanet_veryHigh.txtt)
 - :frowning: [High](https://raw.githubusercontent.com/JavaGarcia/Neanet/master/blacklists/neanet_high.txt)
 - :dizzy_face: [Mixed-Paranoia](https://raw.githubusercontent.com/JavaGarcia/Neanet/master/blacklists/neanet_all.txt)
+
 
 
 
