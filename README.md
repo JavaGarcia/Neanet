@@ -2,16 +2,16 @@
 #### Threat intelligence feed
 #### The stats:
 
-- Direcciones IP con mala reputacion analizadas: 1774480 (100%)
-- Direcciones IP determinadas como 'Critical':  514 (0.028966232361%)
-- Direcciones IP determinadas como 'Very High':  2563 (0.144436680041%)
-- Direcciones IP determinadas como 'High':  71161 (4.01024525495)
-- Total de direcciones IP indexadas en Neanet:  74238 (4.18364816735%)
-- Total de direcciones IP descartadas en Neanet:  1700242 (95.8163518326%)
+- Direcciones IP con mala reputacion analizadas: 1773623 (100%)
+- Direcciones IP determinadas como 'Critical':  329 (0.0185496015782%)
+- Direcciones IP determinadas como 'Very High':  1879 (0.105941341537%)
+- Direcciones IP determinadas como 'High':  69903 (3.94125470858)
+- Total de direcciones IP indexadas en Neanet:  72111 (4.0657456517%)
+- Total de direcciones IP descartadas en Neanet:  1701512 (95.9342543483%)
 
 | Last Update | Critical | Very High | High | Paranoia |
 | --- | --- | --- | --- | --- |
-| 2020-08-25 09:01:41 | 514 | 2563 | 71161 | 74238 mixed list (Critical + Very High + High)|
+| 2020-08-25 10:01:40 | 329 | 1879 | 69903 | 72111 mixed list (Critical + Very High + High)|
 
 ![Stats](https://docs.google.com/spreadsheets/d/e/2PACX-1vSnaNMIXVabIpDJjufMlzH7poXnshF3mgd8Is1g9ytUEzVsP5my4Trn8f-xkoLLQ38xpL3HtmUexLo6/pubchart?oid=501124687&format=image)
 
@@ -21,6 +21,7 @@ For the historical stats go to: [link](/stats.csv)
 - :fearful: [VeryHigh](https://raw.githubusercontent.com/JavaGarcia/Neanet/master/blacklists/neanet_veryHigh.txtt)
 - :frowning: [High](https://raw.githubusercontent.com/JavaGarcia/Neanet/master/blacklists/neanet_high.txt)
 - :dizzy_face: [Mixed-Paranoia](https://raw.githubusercontent.com/JavaGarcia/Neanet/master/blacklists/neanet_all.txt)
+
 
 
 
