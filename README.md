@@ -2,16 +2,16 @@
 #### Threat intelligence feed
 #### The stats:
 
-- Direcciones IP con mala reputacion analizadas: 1775379 (100%)
-- Direcciones IP determinadas como 'Critical':  362 (0.0203900124987%)
-- Direcciones IP determinadas como 'Very High':  2040 (0.114905042811%)
-- Direcciones IP determinadas como 'High':  70406 (3.965688453)
-- Total de direcciones IP indexadas en Neanet:  72808 (4.10098350831%)
-- Total de direcciones IP descartadas en Neanet:  1702571 (95.8990164917%)
+- Direcciones IP con mala reputacion analizadas: 1775352 (100%)
+- Direcciones IP determinadas como 'Critical':  362 (0.0203903225952%)
+- Direcciones IP determinadas como 'Very High':  2052 (0.115582712611%)
+- Direcciones IP determinadas como 'High':  70436 (3.96743856993)
+- Total de direcciones IP indexadas en Neanet:  72850 (4.10341160514%)
+- Total de direcciones IP descartadas en Neanet:  1702502 (95.8965883949%)
 
 | Last Update | Critical | Very High | High | Paranoia |
 | --- | --- | --- | --- | --- |
-| 2020-08-26 12:02:13 | 362 | 2040 | 70406 | 72808 mixed list (Critical + Very High + High)|
+| 2020-08-26 13:02:05 | 362 | 2052 | 70436 | 72850 mixed list (Critical + Very High + High)|
 
 ![Stats](https://docs.google.com/spreadsheets/d/e/2PACX-1vSnaNMIXVabIpDJjufMlzH7poXnshF3mgd8Is1g9ytUEzVsP5my4Trn8f-xkoLLQ38xpL3HtmUexLo6/pubchart?oid=501124687&format=image)
 
@@ -24,6 +24,7 @@ For the historical stats go to: [link](/stats.csv)
 
 
 Your IP is indexed? You may request to takedown. [https://github.com/JavaGarcia/Neanet/issues](https://github.com/JavaGarcia/Neanet/issues)
+
 
 
 
