@@ -4,14 +4,14 @@
 
 - IP Address with malicious activities reported: 1879325 (100%)
 - IP Address categorized as 'Critical':  410 (0.021816343634%)
-- IP Address categorized as 'Very High':  1011 (0.0537959107658%)
-- IP Address categorized as 'High':  122925 (6.54091229564)
-- Total de direcciones IP indexadas en Neanet:  124346 (6.61652455004%)
-- Total de direcciones IP descartadas en Neanet:  1754979 (93.38347545%)
+- IP Address categorized as 'Very High':  1017 (0.0541151743312%)
+- IP Address categorized as 'High':  122927 (6.54101871683)
+- Total de direcciones IP indexadas en Neanet:  124354 (6.61695023479%)
+- Total de direcciones IP descartadas en Neanet:  1754971 (93.3830497652%)
 
 | Last Update | Critical | Very High | High | Paranoia |
 | --- | --- | --- | --- | --- |
-| 2021-10-26 14:01:46 | 410 | 1011 | 122925 | 124346 mixed list (Critical + Very High + High)|
+| 2021-10-26 15:03:02 | 410 | 1017 | 122927 | 124354 mixed list (Critical + Very High + High)|
 
 ![Stats](https://docs.google.com/spreadsheets/d/e/2PACX-1vSnaNMIXVabIpDJjufMlzH7poXnshF3mgd8Is1g9ytUEzVsP5my4Trn8f-xkoLLQ38xpL3HtmUexLo6/pubchart?oid=501124687&format=image)
 
@@ -24,6 +24,7 @@ For the historical stats go to: [link](/stats.csv)
 
 
 Your IP is indexed? You may request to takedown. [https://github.com/JavaGarcia/Neanet/issues](https://github.com/JavaGarcia/Neanet/issues)
+
 
 
 
