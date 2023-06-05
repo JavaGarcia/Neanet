@@ -4,14 +4,14 @@
 
 - IP Address with malicious activities reported: 1629149 (100%)
 - IP Address categorized as 'Critical':  486 (0.0298315255388%)
-- IP Address categorized as 'Very High':  2378 (0.145965777225%)
-- IP Address categorized as 'High':  219042 (13.4451790475)
-- Total de direcciones IP indexadas en Neanet:  221906 (13.6209763502%)
-- Total de direcciones IP descartadas en Neanet:  1407243 (86.3790236498%)
+- IP Address categorized as 'Very High':  2382 (0.146211304184%)
+- IP Address categorized as 'High':  219054 (13.4459156283)
+- Total de direcciones IP indexadas en Neanet:  221922 (13.6219584581%)
+- Total de direcciones IP descartadas en Neanet:  1407227 (86.3780415419%)
 
 | Last Update | Critical | Very High | High | Paranoia |
 | --- | --- | --- | --- | --- |
-| 2023-06-05 04:02:02 | 486 | 2378 | 219042 | 221906 mixed list (Critical + Very High + High)|
+| 2023-06-05 05:01:46 | 486 | 2382 | 219054 | 221922 mixed list (Critical + Very High + High)|
 
 ![Stats](https://docs.google.com/spreadsheets/d/e/2PACX-1vSnaNMIXVabIpDJjufMlzH7poXnshF3mgd8Is1g9ytUEzVsP5my4Trn8f-xkoLLQ38xpL3HtmUexLo6/pubchart?oid=501124687&format=image)
 
@@ -24,6 +24,7 @@ For the historical stats go to: [link](/stats.csv)
 
 
 Your IP is indexed? You may request to takedown. [https://github.com/JavaGarcia/Neanet/issues](https://github.com/JavaGarcia/Neanet/issues)
+
 
 
 
