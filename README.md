@@ -2,16 +2,16 @@
 #### Threat intelligence feed
 #### The stats:
 
-- IP Address with malicious activities reported: 1690938 (100%)
-- IP Address categorized as 'Critical':  347 (0.0205211545308%)
-- IP Address categorized as 'Very High':  1576 (0.0932027076096%)
-- IP Address categorized as 'High':  210313 (12.4376529477)
-- Total de direcciones IP indexadas en Neanet:  212236 (12.5513768098%)
-- Total de direcciones IP descartadas en Neanet:  1478702 (87.4486231902%)
+- IP Address with malicious activities reported: 1691033 (100%)
+- IP Address categorized as 'Critical':  347 (0.0205200016794%)
+- IP Address categorized as 'Very High':  1563 (0.0924287107348%)
+- IP Address categorized as 'High':  210322 (12.4374864358)
+- Total de direcciones IP indexadas en Neanet:  212232 (12.5504351482%)
+- Total de direcciones IP descartadas en Neanet:  1478801 (87.4495648518%)
 
 | Last Update | Critical | Very High | High | Paranoia |
 | --- | --- | --- | --- | --- |
-| 2023-07-28 18:01:36 | 347 | 1576 | 210313 | 212236 mixed list (Critical + Very High + High)|
+| 2023-07-28 19:01:35 | 347 | 1563 | 210322 | 212232 mixed list (Critical + Very High + High)|
 
 ![Stats](https://docs.google.com/spreadsheets/d/e/2PACX-1vSnaNMIXVabIpDJjufMlzH7poXnshF3mgd8Is1g9ytUEzVsP5my4Trn8f-xkoLLQ38xpL3HtmUexLo6/pubchart?oid=501124687&format=image)
 
@@ -24,6 +24,7 @@ For the historical stats go to: [link](/stats.csv)
 
 
 Your IP is indexed? You may request to takedown. [https://github.com/JavaGarcia/Neanet/issues](https://github.com/JavaGarcia/Neanet/issues)
+
 
 
 
