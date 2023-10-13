@@ -2,28 +2,29 @@
 #### Threat intelligence feed
 #### The stats:
 
-- IP Address with malicious activities reported: 1663653 (100%)
-- IP Address categorized as 'Critical':  335 (0.0201364106578%)
-- IP Address categorized as 'Very High':  2332 (0.140173461653%)
-- IP Address categorized as 'High':  198778 (11.9482848887)
-- Total de direcciones IP indexadas en Neanet:  201445 (12.108594761%)
-- Total de direcciones IP descartadas en Neanet:  1462208 (87.891405239%)
+- IP Address with malicious activities reported: 1663626 (100%)
+- IP Address categorized as 'Critical':  332 (0.0199564084716%)
+- IP Address categorized as 'Very High':  2364 (0.142099245864%)
+- IP Address categorized as 'High':  198781 (11.9486591337)
+- Total de direcciones IP indexadas en Neanet:  201477 (12.1107147881%)
+- Total de direcciones IP descartadas en Neanet:  1462149 (87.8892852119%)
 
 | Last Update | Critical | Very High | High | Paranoia |
 | --- | --- | --- | --- | --- |
-| 2023-10-13 18:01:33 | 335 | 2332 | 198778 | 201445 mixed list (Critical + Very High + High)|
+| 2023-10-13 19:01:36 | 332 | 2364 | 198781 | 201477 mixed list (Critical + Very High + High)|
 
 ![Stats](https://docs.google.com/spreadsheets/d/e/2PACX-1vSnaNMIXVabIpDJjufMlzH7poXnshF3mgd8Is1g9ytUEzVsP5my4Trn8f-xkoLLQ38xpL3HtmUexLo6/pubchart?oid=501124687&format=image)
 
 For the historical stats go to: [link](/stats.csv)
 ## Raw
 - :scream: [Critical](https://raw.githubusercontent.com/JavaGarcia/Neanet/master/blacklists/neanet_critical.txt)
-- :fearful: [VeryHigh](https://raw.githubusercontent.com/JavaGarcia/Neanet/master/blacklists/neanet_veryHigh.txtt)
+- :fearful: [VeryHigh](https://raw.githubusercontent.com/JavaGarcia/Neanet/master/blacklists/neanet_veryHigh.txt)
 - :frowning: [High](https://raw.githubusercontent.com/JavaGarcia/Neanet/master/blacklists/neanet_high.txt)
 - :dizzy_face: [Mixed-Paranoia](https://raw.githubusercontent.com/JavaGarcia/Neanet/master/blacklists/neanet_all.txt)
 
 
 Your IP is indexed? You may request to takedown. [https://github.com/JavaGarcia/Neanet/issues](https://github.com/JavaGarcia/Neanet/issues)
+
 
 
 
