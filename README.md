@@ -4,14 +4,14 @@
 
 - IP Address with malicious activities reported: 1828375 (100%)
 - IP Address categorized as 'Critical':  251 (0.0137280371915%)
-- IP Address categorized as 'Very High':  3233 (0.176823682231%)
-- IP Address categorized as 'High':  205357 (11.2316674643)
+- IP Address categorized as 'Very High':  3242 (0.177315922609%)
+- IP Address categorized as 'High':  205348 (11.2311752239)
 - Total de direcciones IP indexadas en Neanet:  208841 (11.4222191837%)
 - Total de direcciones IP descartadas en Neanet:  1619534 (88.5777808163%)
 
 | Last Update | Critical | Very High | High | Paranoia |
 | --- | --- | --- | --- | --- |
-| 2024-05-08 07:01:42 | 251 | 3233 | 205357 | 208841 mixed list (Critical + Very High + High)|
+| 2024-05-08 08:01:47 | 251 | 3242 | 205348 | 208841 mixed list (Critical + Very High + High)|
 
 ![Stats](https://docs.google.com/spreadsheets/d/e/2PACX-1vSnaNMIXVabIpDJjufMlzH7poXnshF3mgd8Is1g9ytUEzVsP5my4Trn8f-xkoLLQ38xpL3HtmUexLo6/pubchart?oid=501124687&format=image)
 
@@ -24,6 +24,7 @@ For the historical stats go to: [link](/stats.csv)
 
 
 Your IP is indexed? You may request to takedown. [https://github.com/JavaGarcia/Neanet/issues](https://github.com/JavaGarcia/Neanet/issues)
+
 
 
 
